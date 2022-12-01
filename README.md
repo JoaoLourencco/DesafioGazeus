@@ -1,7 +1,7 @@
 
 # Desafio Gazeus Games
 
-Desafio de automação do site Jogatina.com da Gazeu Games, conforme proposto em seu
+Desafio de automação do site Jogatina.com da Gazeus Games, conforme proposto em seu
 processo seletivo.
 
 ## Sobre o Desafio:
