@@ -46,10 +46,7 @@ Não deve logar com senha inválida
     Submit Credentials                 testes.estudosjp@gmail.com    teste333
     invalid email or password alert    Email ou senha incorretos. Por favor, tente novamente.
 
-#Recuperar senha
-    #Go To Login
-    #Wait For Elements State    //a[contains(@title,'Recuperar a sua senha')]
-    #Click     //a[contains(@title,'Recuperar a sua senha')]
+
     
 
 

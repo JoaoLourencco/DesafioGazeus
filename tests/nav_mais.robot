@@ -12,26 +12,26 @@ Test Teardown    Finish Test
 
 *** Test Cases ***
 
-Deve acessar a página Suporte
+Deve validar o acesso a página Suporte
     Go to Home
     Acess to     Mais
     Acess to support page
     Validate support page
 
-Deve acessar a página Acordo de utilização
+Deve validar o acesso a página Acordo de utilização
     Go to Home
     Acess to    Mais
     Acess to user agreement page
     Validade user agreement page
     
 
-Deve acessar a página Política de privacidade
+Deve validar o acesso a página Política de privacidade
     Go to Home
     Acess to    Mais
     Acess to privacy policy
     Validate privacy policy page
 
-Deve acessar a página de Mapa do site
+Deve validar o acesso a página de Mapa do site
     Go to Home
     Acess to    Mais
     Acess to site map
